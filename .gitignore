@@ -1,1 +1,5 @@
 RPMS/
+SRPMS/
+results/
+cache/
+ruby.spec
